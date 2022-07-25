@@ -1,1 +1,7 @@
-# Final--Project
+# Project Proposal
+## Research Question
+How much does a college degree affect ones ability to get a job and what are the wages like? <br> I feel like this topic is big to many that are considering college and those that that have recently graduated. The job market is so competetive, it is very interesting to see how much a degree affects opportunities. 
+## Potential DATA
+Looking through websites like kaggle, there are many datasets that showcase the wages of college graduates and non college graduates. I would also look for datasets that highlight how fast it is to obtain a job. This is a potential link with this data: <br> https://www.kaggle.com/datasets/wsj/college-salaries <br> Analysis of this data would provide a great view to those that are in college and those that are hesitant about collegem, some true benefits that a degree may provide. It is also important to look at the field of work when looking at these datasets. 
+## Conclusion 
+I think the results for this analysis would favor those with a college degree to a certain extent. I think for major fields in the job market, such as business, engineering, medical, etc., there is higher value for those that complete a college degree and graduate. For other fields, it can be seen that college degrees are not really necessary to find opportunities. But overall, I still predict that there would be favor towards those with a degree rather than not. 
