@@ -23,4 +23,3 @@ jupyter_server_proxy
 gensim
 dtreeviz
 plotly
-seaborn
